@@ -1,0 +1,30 @@
+{
+    "actions": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0
+        ]
+    ],
+    "config_file": "config/learning.cfg",
+    "input_shape": {
+        "frames": 4,
+        "x": 84,
+        "y": 84
+    },
+    "params": {
+        "still_action": null,
+        "still_ticks": 0,
+        "ticks": 4
+    }
+}

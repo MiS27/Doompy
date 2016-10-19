@@ -1,0 +1,12 @@
+{
+    "config_file": "config/learning_fix_naa.cfg",
+    "params": {
+        "still_action": [
+            0,
+            0,
+            0
+        ],
+        "still_ticks": 1,
+        "ticks": 3
+    }
+}
